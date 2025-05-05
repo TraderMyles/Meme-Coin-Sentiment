@@ -1,0 +1,74 @@
+{
+    "coins": [
+        {
+            "id": "1",
+            "name": "Dogecoin",
+            "market cap": "$25,532,337,968",
+            "ticker": "DOGE",
+            "nickname": "doge"
+        },
+        {
+            "id": "2",
+            "name": "Shibainu",
+            "market cap": "$7,477,467,609",
+            "ticker": "SHIB",
+            "nickname": "Dogecoin Killer"
+        },
+        {
+            "id": "3",
+            "name": "Pepe",
+            "market cap": "$3,361,646,526",
+            "ticker": "PEPE",
+            "nickname": "pepe"
+        },
+        {
+            "id": "4",
+            "name": "Official Trump",
+            "market cap": "$2,260,732,697",
+            "ticker": "TRUMP",
+            "nickname": "Trump’s meme coin"
+        },
+        {
+            "id": "5",
+            "name": "Bonk",
+            "market cap": "$1,294,443,318",
+            "ticker": "BONK",
+            "nickname": "the dog coin of the people"
+        },
+        {
+            "id": "6",
+            "name": "Fartcoin",
+            "market cap": "$1,103,533,617",
+            "ticker": "FARTCOIN",
+            "nickname": "the people's coin"
+        },
+        {
+            "id": "7",
+            "name": "Floki",
+            "market cap": "$722,026,980",
+            "ticker": "FLOKI",
+            "nickname": "floki"
+        },
+        {
+            "id": "8",
+            "name": "Pudgy Penguins",
+            "market cap": "$682,617,352",
+            "ticker": "PENGU",
+            "nickname": "Pengu"
+        },
+        {
+            "id": "9",
+            "name": "dogwifhat",
+            "market cap": "$541,411,989",
+            "ticker": "WIF",
+            "nickname": "wif"
+        },
+        {
+            "id": "10",
+            "name": "Brett",
+            "market cap": "$537,043,825",
+            "ticker": "BRETT",
+            "nickname": "Brett"
+        }
+    ]
+}
